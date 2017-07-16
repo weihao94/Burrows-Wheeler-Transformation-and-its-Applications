@@ -1,5 +1,7 @@
 # Burrows-Wheeler-Transformation-and-its-Applications
 
+National University of Singapore, Department of Mathematics
+
 May 2017 – Jul 2017
 
 Project description:
