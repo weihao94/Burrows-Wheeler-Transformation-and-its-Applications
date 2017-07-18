@@ -17,3 +17,9 @@ Methods/Techniques: Implement the transformation in Python and test it on real d
 Relevance: Big data storage
 
 Fields of research: Combinatorics and Graph Theory
+
+#####
+
+**Note:**
+
+-Files in the form of "x Data.csv" contain the results of our testing
