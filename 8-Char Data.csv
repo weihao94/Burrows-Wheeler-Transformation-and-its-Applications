@@ -1,4 +1,4 @@
-File Name,File Size,Zipped File Size,Compression Ratio (Non-BWT Text),,File Size,Zipped BWT File Size,Compression Ratio (BWT Text)
+File Name,File Size,Zipped File Size (non-BWT Text),Compression Ratio (Non-BWT Text),File Name,File Size,Zipped File Size (BWT Text),Compression Ratio (BWT Text)
 Output0.zip,1000,627,1.594896332,OutputBWT0.zip,1000,635,1.57480315
 Output1.zip,1000,626,1.597444089,OutputBWT1.zip,1000,636,1.572327044
 Output10.zip,1000,633,1.579778831,OutputBWT10.zip,1000,636,1.572327044
